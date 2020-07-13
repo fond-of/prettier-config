@@ -1,0 +1,8 @@
+{
+  "name": "@fond-of/prettier-config",
+  "version": "0.0.1",
+  "description": "Common prettier config for JavaScript projects at fond-of",
+  "main": "index.json",
+  "author": "Philipp Brumm",
+  "license": "MIT"
+}
